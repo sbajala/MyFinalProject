@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#d50000</color>
+
+
+    <color name="brown">#bcaaa4</color>
+    <color name="light_brown">#efdcd5</color>
+    <color name="dark_brown">#8c7b75</color>
+
+    <color name="nav_bar_icon_selected">#8c7b75</color>
+    <color name="nav_bar_text_selected">#8c7b75</color>
+
+    <color name="nav_bar_icon_unselected">#FFFFFFFF</color>
+    <color name="nav_bar_text_unselected">#FFFFFFFF</color>
+
+</resources>
