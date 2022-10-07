@@ -1,22 +1,35 @@
 <resources>
-    <string name="app_name">MyFinalProject</string>
-    <!-- Main Activity -->
-    <string name="homepageItem">Home</string>
-    <string name="wishlistItem">Wishlist</string>
-    <string name="profileItem">Profile</string>
-    <string name="logoutItem">Logout</string>
-    <string name="actionMenu">""</string>
-    <!-- Sign Up and Login Activity-->
-    <string name="signUpTitle">Sign Up</string>
-    <string name="cancelButton">Cancel</string>
-    <string name="firstName">First Name</string>
-    <string name="lastName">Last Name</string>
-    <string name="password">Password</string>
-    <string name="confirmPassword">Confirm Password</string>
-    <string name="email">Email</string>
-    <string name="phone">Phone</string>
-    <string name="login">Login</string>
-    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="app_name">MyReadingTracker</string>
+
+    <!-- Navigation bar -->
+    <string name="add_item">Add a book</string>
+    <string name="reading_list_item">Reading List</string>
+    <string name="stats_item">Stats</string>
+
+    <!-- Home Activity -->
+    <string name="add_book_title">Add a book to your reading list</string>
+    <string name="author_title">Author</string>
+    <string name="title_title">Title</string>
+    <string name="add_button">Add</string>
+    <string name="note_title">Note</string>
+
+    <!-- Reading List Activity -->
+    <string name="edit_book_title">Edit book information</string>
+    <string name="remove_book_title">Remove book from reading list</string>
+    <string name="remove_book_message">Are you sure you want to remove book?</string>
+    <string name="selectOption">Select an option</string>
+    <string name="okMessage">Ok</string>
+    <string name="cancelMessage">Cancel</string>
+
+    <!-- Stats Activity -->
+    <string name="books_not_started_title">Number of books NOT STARTED: </string>
+    <string name="books_in_progress_title">Number of books IN PROGRESS: </string>
+    <string name="books_completed_title">Number of books COMPLETED: </string>
+    <string name="not_started_button">View All Not Started</string>
+    <string name="in_progress_button">View All In Progress</string>
+    <string name="completed_button">View All Completed</string>
+    <!-- If user wants to display books by reading status, we will filter DB data -->
+    <string name="hasReadingStatus">hasReadingStatus</string>
 
     <!-- Preference Titles -->
     <string name="messages_header">Messages</string>

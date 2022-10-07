@@ -2,11 +2,13 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="red">#d50000</color>
+    <color name="green">#598C5B</color>
+    <color name="yellow">#DCFFD70F</color>
+    <color name="blue">#C62B4D88</color>
 
 
     <color name="brown">#bcaaa4</color>
-    <color name="light_brown">#efdcd5</color>
+    <color name="light_brown">#efebe9</color>
     <color name="dark_brown">#8c7b75</color>
 
     <color name="nav_bar_icon_selected">#8c7b75</color>

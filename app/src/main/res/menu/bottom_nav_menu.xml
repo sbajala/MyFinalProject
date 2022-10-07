@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bottomNavBar">
     <item
-        android:id="@+id/homepageItem"
-        android:icon="@drawable/home_icon"
-        android:title="@string/homepageItem" />
+        android:id="@+id/add"
+        android:icon="@drawable/add_circle"
+        android:title="@string/add_item" />
     <item
-        android:id="@+id/wishlistItem"
-        android:icon="@drawable/heart_icon"
-        android:title="@string/wishlistItem" />
+        android:id="@+id/reading_list"
+        android:icon="@drawable/book_icon"
+        android:title="@string/reading_list_item" />
     <item
-        android:id="@+id/profileItem"
-        android:icon="@drawable/profile_icon"
-        android:title="@string/profileItem" />
+        android:id="@+id/stats"
+        android:icon="@drawable/stats_icon"
+        android:title="@string/stats_item" />
 </menu>
