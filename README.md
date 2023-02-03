@@ -8,7 +8,7 @@ Android Mobile application that allows users to keep track of their readings.
  - SQLite
  
  ## Description
- The goal behind the application is to help users keep track of their reading list by indicating which books are in progess, not started, or completed. Users are able to add notes where they can indicate pages to read or reminders. <br/>
+ The goal behind the application is to help users keep track of their reading list by indicating which books are in progess, not started, or completed. Users are equally able to add notes where they can indicate which pages to read or some reminder notes. <br/>
  In summary, Users are able to do the following:
  - Add books to their reading list
  - View details of books in their reading list
@@ -37,5 +37,10 @@ Application uses a bouncing button animation for all buttons. When an activity c
 ### Use SQLite, at least one sensor or an event specific to a mobile platform (touch, scroll, fling, ...).
 Application uses SQLite to store books entered by user.
 
+## Future Considerations
+It would be nice to send a notification to the user when a book has been 'in progress' or 'not completed' for a certain amount of time.
+
+## Credits
+Created by Sharmaine Bajala
 
 
