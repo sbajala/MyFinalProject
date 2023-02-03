@@ -20,9 +20,9 @@ Android Mobile application that allows users to keep track of their readings.
  
 ## Required features
 ### Have more than one Activity or Use of Fragments
-Applications uses three activities:\
-- AddActivity allows users to add a book to their reading list.\
-- ReadingListActivity displays books in user's reading list.\
+Applications uses three activities:
+- AddActivity allows users to add a book to their reading list.
+- ReadingListActivity displays books in user's reading list.
 - StatsActivity allows users to see the number of books NOT STARTED, IN PROGRESS, and COMPLETED. Users can view books by reading status by clicking on a button.
 
 ### Include a form (information of state) that will persist (file preferences or db)
