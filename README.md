@@ -19,7 +19,7 @@ Android Mobile application that allows users to keep track of their readings.
  - View all books according to their reading status
  
 ## Required features
-### 3 different Activity: AddActivity, ReadingList, Stats\
+### 3 different Activity: AddActivity, ReadingList, Stats
 AddActivity allows users to add a book to their reading list.\
 ReadingListActivity displays books in user's reading list.\
 StatsActivity allows users to see the number of books NOT STARTED, IN PROGRESS, and COMPLETED. Users can view books by reading status by clicking on a button.
