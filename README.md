@@ -1,5 +1,5 @@
 # Reading List Tracker
-Android Mobile application that allows users to keept track of their readings.
+Android Mobile application that allows users to keep track of their readings.
  
  ## Programming languages and technologies used
  - Java (back-end)
