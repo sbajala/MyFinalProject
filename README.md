@@ -8,7 +8,8 @@ Android Mobile application that allows users to keep track of their readings.
  - SQLite
  
  ## Description
- Users are able to do the following:
+ The goal behind the application is to help users keep track of their reading list by indicating which books are in progess, not started, or completed. Users are able to add notes where they can indicate pages to read or reminders. <br/>
+ In summary, Users are able to do the following:
  - Add books to their reading list
  - View details of books in their reading list
  - Edit a book's details
