@@ -9,7 +9,7 @@ Android Mobile application that allows users to keep track of their readings.
  
  ## Description
  The goal behind the application is to help users keep track of their reading list by indicating which books are in progess, not started, or completed. Users are equally able to add notes where they can indicate which pages to read or some reminder notes. <br/> <br/>
- In summary, Users are able to do the following:
+ In summary, users are able to do the following:
  - Add books to their reading list
  - View details of books in their reading list
  - Edit a book's details
